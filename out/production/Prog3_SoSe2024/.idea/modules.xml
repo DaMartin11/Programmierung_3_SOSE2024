@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CLI_Old/CLI.iml" filepath="$PROJECT_DIR$/CLI_Old/CLI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CLI_new/CLI_new.iml" filepath="$PROJECT_DIR$/CLI_new/CLI_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Prog3_SoSe2024.iml" filepath="$PROJECT_DIR$/.idea/Prog3_SoSe2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simolation/Simolation.iml" filepath="$PROJECT_DIR$/Simolation/Simolation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCP_Net/TCP_Net.iml" filepath="$PROJECT_DIR$/TCP_Net/TCP_Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contract/contract.iml" filepath="$PROJECT_DIR$/contract/contract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domainLogic/domainLogic.iml" filepath="$PROJECT_DIR$/domainLogic/domainLogic.iml" />
+    </modules>
+  </component>
+</project>

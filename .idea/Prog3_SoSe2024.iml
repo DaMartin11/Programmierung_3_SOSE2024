@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/belegProg3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="domainLogic" />
+    <orderEntry type="module" module-name="Simolation" />
+    <orderEntry type="library" name="belegProg3" level="project" />
+    <orderEntry type="library" name="powermock.api.mockito" level="project" />
+    <orderEntry type="library" name="mockito.all" level="project" />
+    <orderEntry type="module" module-name="contract" />
+    <orderEntry type="module" module-name="CLI" />
+    <orderEntry type="module" module-name="CLI_new" />
+    <orderEntry type="module" module-name="TCP_Net" exported="" />
+  </component>
+</module>
